@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Antoinne "SlyGrin" Kurendi 👋
 
-<!--
-**Ajhehehhejs/Ajhehehhejs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity enthusiast | Threat Management & OS Security | Builder of CYBRUS
 
-Here are some ideas to get you started:
+## Skills
+- 💻 Lua, Python, HTML/CSS, Roblox Dev
+- 🛡 Cybersecurity & Ethical Hacking
+- 🎮 Game Dev: Multiplayer, Battlegrounds & Auto-mining
+- 🎵 Music Production: FL Studio, R&B & Trap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- CYBRUS – Cyber Recon & Security Bureau  
+- UNMATCHED – Battleground-style Roblox Game  
+
+## Connect
+- 🌐 Kenya 🇰🇪  
+- 📫 DM me on Discord or GitHub
